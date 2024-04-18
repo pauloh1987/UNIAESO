@@ -25,5 +25,6 @@ public class atvcsv19 {
         } catch (IOException e) {
             System.err.println("Erro ao escrever no arquivo CSV: " + e.getMessage());
         }
+
     }
 }
