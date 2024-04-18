@@ -3,7 +3,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class csvatv19 {
+public class atvcsv19 {
     public static void main(String[] args) {
         String nomeArquivo = "funcionarios.csv";
 
